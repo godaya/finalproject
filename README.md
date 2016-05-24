@@ -4,6 +4,5 @@ My final project
 
 ## member
 
-John, Smith
-
+John Smith, 林基文
 
